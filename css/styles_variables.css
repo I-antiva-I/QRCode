@@ -7,5 +7,7 @@
     --color-gray-blue:              hsl(220, 15%, 55%);
     --color-dark-blue:              hsl(218, 44%, 22%);
 
+    --paragraph-font-size:          15px;
+
     --qr-block-width:               300px;
 }
