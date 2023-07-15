@@ -1,0 +1,112 @@
+*, *::before, *::after
+{
+    box-sizing:     border-box;
+    padding:        0;
+    margin:         0;
+}
+
+
+html
+{
+    height: 100%;
+}
+body
+{
+    min-height: 100%;
+
+    background-color: var(--color-light-gray);
+
+    font-family: "Outfit";
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+img
+{
+    display:    block;
+  
+    width:          100%;
+    height:         auto;
+    max-width:      350px;
+    max-height:     350px;
+}
+
+
+main
+{
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.qr-block
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    max-width: 350px;
+
+    background-color: var(--color-white);
+    padding-inline:     1.25rem;
+    padding-block:      1.25rem;
+    border-radius:      18px;
+    margin-inline:      1rem;
+}
+
+.container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container.for-image
+{
+    display: flex;
+    border-radius:      18px;
+    overflow: hidden;
+}
+.container.for-desc
+{
+    display: flex;
+    flex-direction: column;
+    padding-inline: 1.25rem;
+    padding-block: 0rem 1.5rem;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 1.5rem;
+
+    margin-top: 2rem;
+    font-weight: 700;
+}
+
+p
+{
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--color-gray-blue);
+    text-align: center;
+    margin-top: 1rem;
+}
+
+
+span
+{
+    white-space: nowrap;
+}
