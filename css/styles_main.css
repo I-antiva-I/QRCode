@@ -10,6 +10,8 @@ html
 {
     height: 100%;
 }
+
+
 body
 {
     min-height: 100%;
@@ -75,17 +77,17 @@ main
 
 .container.for-image
 {
-    display: flex;
     border-radius:      18px;
     overflow: hidden;
 }
+
+
 .container.for-desc
 {
-    display: flex;
-    flex-direction: column;
     padding-inline: 1.25rem;
-    padding-block: 0rem 1.5rem;
+    padding-block:  0rem 1.5rem;
 }
+
 
 h1
 {
@@ -96,9 +98,10 @@ h1
     font-weight: 700;
 }
 
+
 p
 {
-    font-size: 15px;
+    font-size:  15px;
     font-weight: 400;
     color: var(--color-gray-blue);
     text-align: center;
