@@ -58,11 +58,13 @@ main
     max-width: var(--qr-block-width);
 
     background-color: var(--color-white);
-    padding-inline:     1.25rem;
-    padding-block:      1.25rem;
+
+    padding-inline:     1rem;
+    padding-block:      1rem;
+
     border-radius:      18px;
-    margin-inline:      1rem;
 }
+
 
 .container
 {
@@ -82,7 +84,7 @@ main
 
 .container.for-desc
 {
-    padding-inline: 1.25rem;
+    padding-inline: 0.75rem;
     padding-block:  0rem 1.5rem;
 }
 
@@ -91,15 +93,16 @@ h1
 {
     text-align: center;
     font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: 1px ;
 
     margin-top: 2rem;
-    font-weight: 700;
 }
 
 
 p
 {
-    font-size:  15px;
+    font-size:  var(--paragraph-font-size);
     font-weight: 400;
     color: var(--color-gray-blue);
     text-align: center;
