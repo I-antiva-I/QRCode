@@ -6,4 +6,6 @@
     --color-light-gray:             hsl(212, 45%, 89%);
     --color-gray-blue:              hsl(220, 15%, 55%);
     --color-dark-blue:              hsl(218, 44%, 22%);
+
+    --qr-block-width:               300px;
 }
