@@ -34,8 +34,6 @@ img
   
     width:          100%;
     height:         auto;
-    max-width:      350px;
-    max-height:     350px;
 }
 
 
@@ -57,7 +55,7 @@ main
     justify-content: center;
     align-items: center;
     
-    max-width: 350px;
+    max-width: var(--qr-block-width);
 
     background-color: var(--color-white);
     padding-inline:     1.25rem;
@@ -92,7 +90,7 @@ main
 h1
 {
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 
     margin-top: 2rem;
     font-weight: 700;
