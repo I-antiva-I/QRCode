@@ -9,5 +9,14 @@
 
     --paragraph-font-size:          15px;
 
-    --qr-block-width:               300px;
+    --qr-block-width:               320px;
+    --qr-block-shadow:              0px 4px 8px 0px rgba(0, 0, 0, 0.25);
+    /* 
+    Shadow : 
+    (1) - h-offset
+    (2) - v-offset
+    (3) - blur radius 
+    (4) - spread radius
+    (5) - color
+    */
 }
