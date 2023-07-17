@@ -11,6 +11,12 @@ on <a href="https://www.frontendmentor.io" target="_blank">Frontend Mentor</a>
     <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/I-antiva-I/QRCode">
 </p>
 
+## Live Site
+<p>
+    <a href="https://i-antiva-i.github.io/QRCode/">Link</a>
+</p>
+
+
 ## Languages and Tools
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
