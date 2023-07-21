@@ -1,24 +1,19 @@
 # Frontend Mentor - QR Code Component
-<p>
-This is a solution
-to <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">QR code component challenge</a> 
-on <a href="https://www.frontendmentor.io" target="_blank">Frontend Mentor</a> 
-</p>
+This is a solution 
+to [QR code component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+on [Frontend Mentor](https://www.frontendmentor.io)
 
-<p>
-    <img alt="Difficulty - Newbie" src="https://img.shields.io/badge/Difficulty-[1] Newbie-6abecd">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/I-antiva-I/QRCode">
-    <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/I-antiva-I/QRCode">
-</p>
+![Difficulty-[1] Newbie](<https://img.shields.io/badge/Difficulty-[1] Newbie-6abecd>)
+![GitHub repo size](<https://img.shields.io/github/repo-size/I-antiva-I/QRCode?label=Repo size>)
+![GitHub last commit (by committer](<https://img.shields.io/github/last-commit/I-antiva-I/QRCode?label=Last commit>)
+
 
 ## Live Site
-<p>
-    <a href="https://i-antiva-i.github.io/QRCode/">Link</a>
-</p>
+[Link](https://i-antiva-i.github.io/QRCode)
 
 
 ## Languages and Tools
-<p>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+  
